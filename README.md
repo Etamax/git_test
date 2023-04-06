@@ -1,3 +1,3 @@
 # git_test 
 
-my first GitHub
+my first GitHub repo
